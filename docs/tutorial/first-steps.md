@@ -28,7 +28,7 @@ these:
     ```
 
 Note that in the Output tab, the content before the command prompt (`$`) will be
-dependend or your operating system and terminal configuration. What you want to
+dependend on your operating system and terminal configuration. What you want to
 compare is what follows it and the output below the command that was ran. The
 output you see was taken directly out of your terminal when you tested the
 tutorial.
